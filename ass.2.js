@@ -161,3 +161,16 @@ function question10() {
 }
 
 question10();
+
+
+function checkPassword(password) {
+  if (password.length >= 6) {
+    return "This is a stong password";
+  } else {
+    return "This is a week password";
+  }
+}
+
+console.log(checkPassword("samadina"));
+
+

@@ -167,3 +167,9 @@ console.log(`is ${person3.name} a valid person, paste him the funds`, checkIfVal
 
 document.getElementById("demo").innerHTML = greeting;
 edited;
+
+
+
+
+// class on sunday
+
